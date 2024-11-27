@@ -1,4 +1,4 @@
 # SUMMER HOLIDAY
 | After clone, setup environment by:
-<br>npm install
+<br><b>npm install
 <br>npm run dev
