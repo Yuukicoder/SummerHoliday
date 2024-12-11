@@ -8,6 +8,12 @@
 npm i
 npm run dev
 ```
+```sh
+# Go to server, Type on Terminal
+npm i express jsonwebtoken mongoose dotenv argon2 cors
+npm i --save-dev nodemon
+npm run server
+```
 ## 🎨 Design
 
 | Design model source: https://dribbble.com/shots/20743352-Fashion-E-commerce-Landing-Page
